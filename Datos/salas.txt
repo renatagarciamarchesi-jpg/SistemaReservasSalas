@@ -1,0 +1,4 @@
+SALA01|Sala Directorio|Piso 8|12|Proyector,Videoconferencia,Pizarra
+SALA02|Sala Innovación|Piso 5|8|Proyector,Pizarra
+SALA03|Sala Rápida|Piso 3|4|Pizarra
+SALA04|Sala Auditorio|Piso 1|30|Proyector,Videoconferencia,Sonido

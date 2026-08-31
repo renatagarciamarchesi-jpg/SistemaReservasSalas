@@ -1,0 +1,5 @@
+R001|SALA01|G-2026-015|2026-07-24|14:00|16:00|Reunión de Directorio|Confirmada
+R002|SALA02|E-2026-003|2026-07-24|18:00|20:00|Sincronización de equipo|Pendiente
+R003|SALA01|G-2026-016|2026-07-25|09:00|10:00|Revisión de presupuesto|Confirmada
+R004|SALA03|E-2026-004|2026-07-24|11:00|11:30|Llamada con cliente|Pendiente
+R005|SALA04|A-2026-001|2026-07-26|15:00|17:00|Capacitación general|Confirmada
