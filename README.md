@@ -25,11 +25,11 @@ Los archivos de datos (`Datos/salas.txt`, `Datos/usuarios.txt`, `Datos/reservas.
 | ID | Rol | Nombre |
 |---|---|---|
 | A-2026-001 | Administrador | Renata García Marchesi |
-| G-2026-002 | Gerente | Claudia Carina Marchesi |
-| G-2026-003 | Gerente | José Manuel García |
-| E-2026-004 | Empleado | Lucas Fenoglio |
-| E-2026-005 | Empleado | Santiago Fenoglio |
-| E-2026-006 | Empleado | Pablo Fenoglio |
+| G-2026-002 | Gerente | Usuario 01 |
+| G-2026-003 | Gerente | Usuario 02 |
+| E-2026-004 | Empleado | Usuario 03 |
+| E-2026-005 | Empleado | Usuario 04 |
+| E-2026-006 | Empleado | Usuario 05 |
 
 El rol determina las pantallas disponibles: el **Administrador** accede a la gestión de salas y de usuarios además de las funciones de reserva; **Gerente** y **Empleado** acceden únicamente a reservas y reportes, con límites semanales de reservas diferenciados por rol.
 
