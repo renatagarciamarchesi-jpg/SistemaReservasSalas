@@ -1,6 +1,6 @@
-A-2026-001|Administrador|Renata García Marchesi|renata.garcia.marchesi@uai.com
-G-2026-002|Gerente|Claudia Carina Marchesi|claudiacarina.marchesi@uai.com
-G-2026-003|Gerente|José Manuel García|josemanuel.garcia@uai.com
-E-2026-004|Empleado|Lucas Fenoglio|lucas.fenoglio@uai.com
-E-2026-005|Empleado|Santiago Fenoglio|santiago.fenoglio@uai.com
-E-2026-006|Empleado|Pablo Fenoglio|pablo.fenoglio@uai.com
+A-2026-001|Administrador|Renata García Marchesi|renata.garcia.marchesi@mail.com
+G-2026-002|Gerente|Usuario01|usuario.01@mail.com
+G-2026-003|Gerente|Usuario02|usuario.02@mail.com
+E-2026-004|Empleado|Usuario03|usuario.03@mail.com
+E-2026-005|Empleado|Usuario04|usuario.04@mail.com
+E-2026-006|Empleado|Usuario05|usuario.05@mail.com
